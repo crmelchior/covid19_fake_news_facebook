@@ -17,11 +17,14 @@ preferred-citation:
       given-names: Thierry
       orcid: "https://orcid.org/0000-0002-5921-3428"
     - family-names: Oliveira
-      given-names: Mírian
+      given-names: Mirian
       orcid: "https://orcid.org/0000-0002-5498-0329"
   abstract: "This study investigates the factors associated with sharing fake news about COVID-19 on Facebook. The authors developed a model comprising novel constructs to analyze the motivations for sharing COVID-19-related fake news on Facebook based on the theoretical framework of rumor theory and the boomerang effect. The study employed a mixed-methods approach, including an online survey with 338 respondents, which was analyzed using a complementary exploratory design strategy. Additionally, the authors developed a fuzzy-set qualitative comparative analysis (fsQCA) and compared different approaches for Structural Equation Modeling (SEM) in R language and SmartPLS software. The study revealed that respondents with higher levels of education reported higher literacy skills and that users with higher literacy skills were less likely to trust and share fake news content. Furthermore, the trust predicted fake news sharing. The study also identified intrinsic and extrinsic motivators for sharing fake news. The findings underscore the complex nature of fake news sharing and the need for a nuanced approach when addressing the issue. In practical terms, the study suggests combating fake news by training users to improve their literacy skills and addressing the culture of information sharing and user responsibility over the information shared."
+  identifiers:
+    - type: doi
+      value: "10.1016/j.techfore.2024.123969"
   type: article
   title: "An Investigation of the Covid-19-related Fake News Sharing on Facebook Using a Mixed Methods Approach"
-  journal: "Technological Forecasting & Social Change"
+  journal: "Technological Forecasting and Social Change"
   year: 2025
   repository-code: "https://github.com/crmelchior/covid19_fake_news_facebook"
